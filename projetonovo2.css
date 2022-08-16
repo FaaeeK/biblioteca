@@ -1,0 +1,121 @@
+body
+{
+    background-color:#8c8377 !important;
+}
+.card-body{
+background-color:#333333 !important;
+float: left;
+color: white;
+border-color:#333333;
+}
+.card-header{
+    background-color: #333333 ;
+     color: black; 
+     float: left;
+     border-color:#333333;
+         
+
+}
+
+<1---corpo do site--->
+
+.card8{
+    background-color: #8c8377;
+    font-style: oblique;
+    text-align: justify;
+   border-left: none;
+   float: right;
+   
+}
+.img{
+   
+	width: 20%;
+  margin: auto;
+  display: block;
+}
+.card9{
+    text-align: center;
+   color: black;
+   font-style: oblique;
+}
+.iframe{
+    width: max-content;
+}
+#imgpos{
+    width: 30%;
+    height: 515px;
+}
+#card8{
+    text-align: justify;
+    font-style: oblique;
+
+}
+#card10{
+    text-align: justify;
+    font-style: oblique;
+}
+#card1{
+    background-color:#8c8377 ;
+    color: black;
+    width: 30px;
+    height: 55px;
+}
+#card2{
+    background-color:#8c8377;
+    color: black;
+}
+    
+#card3{
+    background-color:#8c8377 ;
+    color: black;
+}
+#card4{
+    background-color: #8c8377;
+    color: black;
+}
+main {
+    display: flex;
+}
+
+aside {
+    width: 50em;
+    overflow: hidden;
+    overflow-y: scroll;
+    height: 90vh;
+    border: 1px solid grey;
+    padding: 0.5em;
+    margin-left: 1em;
+    background-color: #8c8377;
+}
+
+aside img {
+    width: 100%;
+    border-color:#8c8377 ;
+}
+#rolagem{
+    width: 75% ;
+    height: 50%;
+    border-color:#8c8377 ;
+    background-color: #8c8377;
+}
+    ::-webkit-scrollbar{
+        width: 10px;
+        
+    }
+    ::-webkit-scrollbar-track{
+        background-color:#928d8d ;
+    }
+    ::-webkit-scrollbar-button{
+        
+        background-color: #8c8377;
+    }
+    ::-webkit-scrollbar-thumb:hover{
+        border-radius: 20px;
+        background-color: 	#696969;
+    }
+    
+    
+
+
+
+    
